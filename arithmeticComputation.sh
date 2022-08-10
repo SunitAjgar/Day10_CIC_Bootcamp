@@ -9,3 +9,6 @@ echo $result
 
 result=$(($a*$b+$c));
 echo $result
+
+result=$(($c+$a/$b));
+echo $result
