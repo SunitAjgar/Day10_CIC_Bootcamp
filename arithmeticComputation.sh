@@ -6,3 +6,6 @@ read -p "enter third value : " c;
 
 result=$(($a+$b*$c));
 echo $result
+
+result=$(($a*$b+$c));
+echo $result
