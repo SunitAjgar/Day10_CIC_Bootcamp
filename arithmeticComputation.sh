@@ -15,3 +15,6 @@ echo $result
 
 result=$(($a%$b+$c));
 echo $result
+
+$result=$dictest
+echo $dictest
